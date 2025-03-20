@@ -1,3 +1,14 @@
+Autores
+
+Bruno Castro - RM558359
+Hugo Mariano - RM560688
+Matheus Castro - RM559293
+
+
+Vídeo de explicação da Entrega 1, modelos preditivos: https://www.youtube.com/watch?v=JL9FRV1bdw8&ab_channel=MatheusCastro
+Vídeo de explicação da Entrega 2, orçamento de AWS: https://youtu.be/qUCjb9b7cJg
+
+
 # FarmTech-Fase-5- # 📊 **Previsão do Rendimento das Safras com Machine Learning**
 
 Este repositório contém um projeto que utiliza diferentes algoritmos de **Machine Learning** para prever o **rendimento das safras** com base em variáveis climáticas. O objetivo é comparar cinco modelos preditivos: **Regressão Linear**, **SVM**, **Random Forest**, **Decision Tree** e **XGBoost**, avaliando seu desempenho com **validação cruzada** e diversas métricas de erro.
